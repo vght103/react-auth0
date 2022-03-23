@@ -1,0 +1,47 @@
+.user-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+
+  img {
+    width: 50px;
+    border-radius: 50%;
+  }
+}
+
+.login-box {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.user-detail {
+  padding: 20px 0;
+  border-top: 1px solid;
+
+  h3 {
+    text-align: center;
+  }
+}
+
+.user-profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  span {
+    margin: 10px 0;
+  }
+
+  img {
+    width: 300px;
+    border-radius: 50%;
+  }
+}
+
+.login-message {
+  margin-top: 30px;
+  text-align: center;
+}
